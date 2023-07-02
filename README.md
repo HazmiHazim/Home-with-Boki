@@ -89,3 +89,16 @@
    Hightlight all folder and drag to your github project
    ```
    ![CHEESE!](Images/image%2010.png)
+
+- Commit and push your project to the repository
+   ```
+   Enter any word in the box
+   ```
+   ![CHEESE!](Images/image%2014.png)
+   ```
+   Click Commit button
+   ```
+   ```
+   Push your project
+   ```
+   ![CHEESE!](Images/image%2015.png)
