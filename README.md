@@ -16,6 +16,7 @@
    ```
    ```
    Take standalone 64-bit Git (Windows)
+   ![CHEESE!](Images/image 7.jpg)
    ```
    ```
    Install git to your PC (Just click next when instal. Let all be default)
