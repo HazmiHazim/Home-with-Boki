@@ -57,9 +57,17 @@
    ```
    ![CHEESE!](Images/image%205.jpg)
    ```
-   Select your module
+   Create new branch
    ```
    ![CHEESE!](Images/image%206.jpg)
+   ![CHEESE!](Images/image%2012.jpg)
+   ```
+   Enter any name for your branch
+   ```
+   ![CHEESE!](Images/image%2013.jpg)
+   ```
+   Click "Create Branch" button
+   ```
    ```
    Click "Switch Branch" button
    ```
