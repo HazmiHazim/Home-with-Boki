@@ -94,11 +94,11 @@
    ```
    Enter any word in the box
    ```
-   ![CHEESE!](Images/image%2014.png)
+   ![CHEESE!](Images/image%2014.jpg)
    ```
    Click Commit button
    ```
    ```
    Click "Push" button to input your project in the repository
    ```
-   ![CHEESE!](Images/image%2015.png)
+   ![CHEESE!](Images/image%2015.jpg)
