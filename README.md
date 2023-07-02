@@ -99,6 +99,6 @@
    Click Commit button
    ```
    ```
-   Push your project
+   Click "Push" button to input your project in the repository
    ```
    ![CHEESE!](Images/image%2015.png)
