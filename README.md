@@ -9,9 +9,6 @@
 
 - Download and install git
    ```
-   Download Git
-   ```
-   ```
    Go to https://git-scm.com/downloads
    ```
    ```
