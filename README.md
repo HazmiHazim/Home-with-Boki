@@ -79,8 +79,8 @@
    ```
    Open your root folder
    ```
-   ![CHEESE!](Images/image%2010.png)
+   ![CHEESE!](Images/image%2011.jpg)
    ```
    Hightlight all folder and drag to your github project
    ```
-   ![CHEESE!](Images/image%2011.jpg)
+   ![CHEESE!](Images/image%2010.png)
