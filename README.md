@@ -16,8 +16,8 @@
    ```
    ```
    Take standalone 64-bit Git (Windows)
-   ![Alt text](https://github.com/HazmiHazim/Home-with-Boki/blob/main/Images/image%207.jpg)
    ```
+   ![CHEESE!](https://github.com/HazmiHazim/Home-with-Boki/blob/main/Images/image%207.jpg)
    ```
    Install git to your PC (Just click next when instal. Let all be default)
    ```
