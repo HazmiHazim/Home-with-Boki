@@ -31,7 +31,7 @@
    ```
    Open github desktop
    ```
-   ![CHEESE!](Images/image%201.jpg)
+   ![CHEESE!](Images/image1.jpg)
    ```
    Go to file >> Clone repository
    ```
