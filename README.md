@@ -16,7 +16,7 @@
    ```
    ```
    Take standalone 64-bit Git (Windows)
-   ![alt text](image/image 7.jpg)
+   ![alt text](Images/image%207.jpg)
    ```
    ```
    Install git to your PC (Just click next when instal. Let all be default)
