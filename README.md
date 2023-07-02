@@ -66,3 +66,20 @@
    ```
    Click "Switch Branch" button
    ```
+
+- Put your project file to your branch
+   ```
+   Go to your unity project 
+   ```
+   ![CHEESE!](Images/image%208.jpg)
+   ```
+   Open file explorer
+   ```
+   ![CHEESE!](Images/image%209.png)
+   ```
+   Open your root folder
+   ```
+   ![CHEESE!](Images/image%2010.png)
+   ```
+   Hightlight all folder and drag to your github project
+   ```
