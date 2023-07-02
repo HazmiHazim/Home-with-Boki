@@ -11,6 +11,7 @@
    ```
    Download Git
    ```
+   ```
    Go to https://git-scm.com/downloads
    ```
    Take standalone 64-bit Git (Windows)
