@@ -31,12 +31,15 @@
    ```
    Open github desktop
    ```
+   ![CHEESE!](Images/image%201.jpg)
    ```
    Go to file >> Clone repository
    ```
+   ![CHEESE!](Images/image%202.jpg)
    ```
    Choose URL >> Paste https://github.com/HazmiHazim/Home-with-Boki.git
    ```
+   ![CHEESE!](Images/Image%203.jpg)
    ```
    Choose path where you want to put your project folder in your PC
    ```
@@ -51,12 +54,15 @@
    ```
    Make sure your current repository is Home-with-Boki
    ```
+   ![CHEESE!](Images/image%204.jpg)
    ```
    Click current branch tab
    ```
+   ![CHEESE!](Images/image%205.jpg)
    ```
    Select your module
    ```
+   ![CHEESE!](Images/image%206.jpg)
    ```
    Click "Switch Branch" button
    ```
