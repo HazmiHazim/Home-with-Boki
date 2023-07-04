@@ -10,10 +10,12 @@ public class CupcakeScript : MonoBehaviour
         {
             if (LifeManagerScript.life == 3)
             {
+                AudioManager.instance.Play("Collect Sound");
                 Destroy(gameObject);
             }
             else if (LifeManagerScript.life < 3)
             {
+                AudioManager.instance.Play("Collect Sound");
                 LifeManagerScript.life = LifeManagerScript.life + 1;
                 Destroy(gameObject);
             }

@@ -12,7 +12,7 @@ public class SpellingQuizScript : MonoBehaviour
     public Button button3;
     public int maxTries = 2;
 
-    private string targetWord = "B A _ A N A";
+    //private string targetWord = "B A _ A N A";
     private int currentTries = 0;
 
     public GameObject panel;
@@ -29,19 +29,20 @@ public class SpellingQuizScript : MonoBehaviour
     {
         if (letter == "N")
         {
+            AudioManager.instance.Play("Correct Answer Sound");
             if (LifeManagerScript.life == 3)
             {
                 Debug.Log("Congratulations! You spelled the word correctly.");
                 SetButtonColor(button3, Color.green);
-                nextLevelScreen.SetActive(true);
             }
             else if (LifeManagerScript.life < 3)
             {
                 Debug.Log("Congratulations! You spelled the word correctly.");
                 SetButtonColor(button3, Color.green);
                 LifeManagerScript.life = LifeManagerScript.life + 1;
-                nextLevelScreen.SetActive(true);
             }
+            nextLevelScreen.SetActive(true);
+            Time.timeScale = 1;
         }
         else
         {
@@ -56,7 +57,7 @@ public class SpellingQuizScript : MonoBehaviour
                 {
                     Time.timeScale = 0;
                     GameManagerScript.isGameOver = true;
-                    AudioManager.instance.Play("GameOver");
+                    AudioManager.instance.Play("Game Over Sound");
                     gameObject.SetActive(false);
                 }
             }
