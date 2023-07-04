@@ -104,3 +104,8 @@
    Click "Push" button to input your project in the repository
    ```
    ![CHEESE!](Images/image%2015.jpg)
+
+## Game Interface
+- Home Scene
+
+   ![CHEESE!](Images/image%2014.jpg)
