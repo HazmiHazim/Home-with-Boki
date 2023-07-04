@@ -1,6 +1,6 @@
 # Installation and Cloning
 
-## Download and Setup
+#### Download and Setup
 
 - Create your account Github
    ```
@@ -24,7 +24,7 @@
    Go to https://desktop.github.com/
    ```
 
-## Cloning and Changing Branch
+#### Cloning and Changing Branch
 - Cloning repository
    ```
    Open github desktop
@@ -91,7 +91,7 @@
    ```
    ![CHEESE!](Images/image%2010.png)
 
-## Commit and Push
+#### Commit and Push
 - Commit and push your project to the repository
    ```
    Enter any word in the box
