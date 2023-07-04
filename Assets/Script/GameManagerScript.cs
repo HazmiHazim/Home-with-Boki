@@ -47,18 +47,13 @@ public class GameManagerScript : MonoBehaviour
         SceneManager.LoadScene("Home");
     }
 
-    public void GoToLevel2()
+    public void GoToLevel1()
     {
-        SceneManager.LoadScene("Level2");
+        SceneManager.LoadScene("Module1");
     }
 
     public void GoToLevel3()
     {
-        SceneManager.LoadScene("Level3");
-    }
-
-    public void GoToLevel4()
-    {
-        SceneManager.LoadScene("Level4");
+        SceneManager.LoadScene("Module3");
     }
 }

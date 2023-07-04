@@ -24,6 +24,6 @@ public class HomeScript : MonoBehaviour
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("GameScene");
+        SceneManager.LoadScene("Module1");
     }
 }
