@@ -1,29 +1,5 @@
 # Installation and Cloning
 
-## Download and Setup
-
-- Create your account Github
-   ```
-   Go to https://github.com/
-   ```
-
-- Download and install git
-   ```
-   Go to https://git-scm.com/downloads
-   ```
-   ```
-   Take standalone 64-bit Git (Windows)
-   ```
-   ![CHEESE!](Images/image%207.jpg)
-   ```
-   Install git to your PC (Just click next when instal. Let all be default)
-   ```
-   
-- Download github desktop
-   ```
-   Go to https://desktop.github.com/
-   ```
-
 ## Cloning and Changing Branch
 - Cloning repository
    ```
