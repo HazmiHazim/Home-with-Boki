@@ -67,20 +67,6 @@
    ```
    ![CHEESE!](Images/image%2010.png)
 
-## Commit and Push
-- Commit and push your project to the repository
-   ```
-   Enter any word in the box
-   ```
-   ![CHEESE!](Images/image%2014.jpg)
-   ```
-   Click Commit button
-   ```
-   ```
-   Click "Push" button to input your project in the repository
-   ```
-   ![CHEESE!](Images/image%2015.jpg)
-
 ## Game Interface
 - Home Scene
 
