@@ -1,25 +1,6 @@
 # Installation and Cloning
 
-## Cloning and Changing Branch
-- Cloning repository
-   ```
-   Open github desktop
-   ```
-   ![CHEESE!](Images/image1.jpg)
-   ```
-   Go to file >> Clone repository
-   ```
-   ![CHEESE!](Images/image%202.jpg)
-   ```
-   Choose URL >> Paste https://github.com/HazmiHazim/Home-with-Boki.git
-   ```
-   ![CHEESE!](Images/Image%203.jpg)
-   ```
-   Choose path where you want to put your project folder in your PC
-   ```
-   ```
-   Click "Clone" button
-   ```
+## Changing Branch
 
 - Change branch
    ```
