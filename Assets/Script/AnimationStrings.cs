@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 // This class to set a constant variable so that other will not misspell it
+// Optional
 internal class AnimationStrings
 {
     internal static string isMoving = "isMoving";
