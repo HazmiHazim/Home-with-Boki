@@ -1,6 +1,6 @@
 # `Game Overview`
 
-## Game Interface
+### Game Interface
 - Home Scene
 
    ![CHEESE!](https://github.com/HazmiHazim/Home-with-Boki/blob/main/Images/Home%20Menu.jpg)
